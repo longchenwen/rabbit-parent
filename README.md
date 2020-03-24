@@ -12,3 +12,13 @@
 
 ## [es-job官方网址](http://elasticjob.io/)
 
+## 使用的工具:com.google.common.base.Preconditions
+```
+ Preconditions.checkNotNull(string); 检查是否为null
+```
+## 使用工具:com.google.common.base.Splitter
+```
+1.Splitter.on("#");切分的字符串
+2.List<String> strings = splitter.splitToList("字符串")
+```
+
