@@ -37,7 +37,7 @@
 1. es-job属于分布式定时任务
 2. zookeeper做分布式锁
 
-## TreadeLocal的学习??
+## ThreadeLocal的学习[参考博客](https://www.cnblogs.com/jiangxinlingdu/p/11055540.html)
 
 ## 延迟消息的发送
 
