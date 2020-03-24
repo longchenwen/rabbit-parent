@@ -20,5 +20,15 @@
 ```
 1.Splitter.on("#");切分的字符串
 2.List<String> strings = splitter.splitToList("字符串")
+
 ```
+
+## 序列化和反序列化
+
+## 发送消息的确认消息完成
+
+## 可靠性消息的投递
+
+## 简单封装rabbitmq 发送和消费消息,使用分布式定时器es-job做分布式定时任务,[es-job官方网址](http://elasticjob.io/)
+
 
